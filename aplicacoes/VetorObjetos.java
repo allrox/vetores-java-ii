@@ -1,4 +1,4 @@
-package aplicacao;
+package aplicacoes;
 import java.util.Scanner;
 import classes.*;
 
